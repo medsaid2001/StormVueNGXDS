@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>StormStation HTML Base</title>
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="css/leaflet.css" type="text/css">
+    <link rel="stylesheet" href="css/MarkerCluster.css" type="text/css">
+    <link rel="stylesheet" href="css/custom.css" type="text/css">
+</head>
+
+<body style="background-color: black;">
+    <!-- Page center and product logo - may be removed -->
+    <div id="centerPage" style="left:50%; margin-left: 20px; top:50%; margin-top:20px;">
+        <img src="img/ss5ngx_sm.png" width="250" height="34" />
+    </div>
+
+    <!-- Start of main HTML code for StormVue 5 NGX -->
+    <div id="centerPage" style="left:50%; margin-left: 20px; top:50%; margin-top:4px;">
+        <div tabindex="0" class="leaflet-container leaflet-fade-anim" id="map" style="left: 0px; top:0px; width: 650px; height: 430px; position: relative; background-color: black;">
+            <canvas id="pnlClockCanvas" width="220" height="30" style="z-index: 2; position:relative; left:5px; top:5px;">
+                Your browser does not support HTML5 Canvas.
+            </canvas>
+
+            <canvas id="pnlCanvas" width="245" height="330" style="z-index: 2; position:relative; left:450px; top:5px;">
+                Your browser does not support HTML5 Canvas.
+            </canvas>
+
+            <canvas id="pnlSymCanvas" width="245" height="65" style="z-index: 2; position:relative; left:450px; top:340px;">
+                Your browser does not support HTML5 Canvas.
+            </canvas>
+        </div>
+
+        <script>L_PREFER_CANVAS = true;</script>
+        <script src="lib/leaflet_073mod.js"></script>
+        <script src="lib/leaflet.markercluster.js"></script>
+        <script src="lib/Leaflet.Geodesic.js"></script>
+
+        <script src="lib/extentsions.js"></script>
+        <script src="lib/preLoad.js"></script>
+        <script src="lib/symbols.js"></script>
+        <script src="lib/Counter.js"></script>
+        <script src="lib/Util.js"></script>
+        <script src="lib/ClockPanel.js"></script>
+        <script src="lib/DataPanel.js"></script>
+        <script src="lib/LegendPanel.js"></script>
+        <script src="lib/LegendPanelNC.js"></script>
+        <script src="options/mapProviders.js"></script>
+        <script src="lib/main.js"></script>
+    </div>
+    <!-- End of main HTML code for StormVue 5 NGX -->
+
+    <!-- Astrogenic logo - may be removed -->
+    <div id="footerlogo" style="left:50%; margin-left: 440px; margin-top:4px;">
+        <img src="img/astrogenic.png" width="229" height="34" />
+    </div>
+</body>
+</html>

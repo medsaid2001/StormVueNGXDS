@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+	<ConfigureItems>
+		
+		<!-- units: km for kilometers, mi for statue miles -->
+		<!-- All distance related values in this file are given in units specified here -->
+		<distance_units> km </distance_units>
+
+		<!-- Time format, 24HR or 12HR (AM/PM) -->		
+		<time_format> 24HR </time_format>
+		
+		<!-- Distance rings configuration -->
+		<distance_rings> 5 </distance_rings>
+		<ring_color> 0x888888 </ring_color>
+		<label_color> 0xFFFF55 </label_color>
+		<centercross_color> 0xFFFF00 </centercross_color>
+		<rings_alpha> 1.0 </rings_alpha>
+		
+		<!-- Close alarm ring configuration -->
+		<alarm_ring_color> 0xFF0000 </alarm_ring_color>
+		
+		<!-- Location coordinates of your lightning detector, in Degrees Decimal format -->
+		<sensor_latitude> 0.0000 </sensor_latitude>
+		<sensor_longitude> 0.0000 </sensor_longitude>
+		
+		<!-- Use text outline in user interface, true/false. Useful for bright backgrounds -->
+		<gui_textoutline> false </gui_textoutline>
+		<gui_headercolor> 0x3399FF </gui_headercolor>
+		<gui_bgcolor> 0x0 </gui_bgcolor>
+				
+		<!-- Place name -->
+		<location_name>Your location &#169;2012 yourwebsite.com</location_name>		
+		
+		<!-- Add maps and range for each map here -->
+		<!-- Up to 10 background maps allowed. More maps equals longer loading time -->
+		<!-- Close-up zoom levels should be at the top followed by lower zoom levels -->
+		<maplist>
+		  <map path="http://yourwebsite.com/svngx/maps/mps_100.png" range="100" />
+			<map path="http://yourwebsite.com/svngx/maps/mps_300.png" range="300" />
+			<map path="http://yourwebsite.com/svngx/maps/mps_600.png" range="600" />
+			<map path="http://yourwebsite.com/svngx/maps/mps_900.png" range="900" />
+			<map path="http://yourwebsite.com/svngx/maps/mps_1400.png" range="1400" />
+			<map path="http://yourwebsite.com/svngx/maps/mps_2400.png" range="2400" />
+		</maplist>
+
+		<!-- 
+			Vector symbols used for representing strike data.
+			List in specific order as per below
+			Row 0=Positive CG
+			Row 1=Negative CG
+			Row 2=Intracloud (pos and neg) 
+			Row 3=unknown (LD-250) 
+			
+			See symlib.swf for available symbols
+		-->
+		<vector_symbols>
+			<vector_symbol classname="CGSymbol8" />
+			<vector_symbol classname="CGSymbol7" />
+			<vector_symbol classname="ICSymbol2" />
+			<vector_symbol classname="ICSymbol6" />
+		</vector_symbols>
+		
+		<vector_storm_symbol> TSCloud2 </vector_storm_symbol>
+		<vector_storm_symbol_scale> 1.0 </vector_storm_symbol_scale>
+		
+		<!-- Scaling for new and old strike symbols. Intermediate values will be interpolated. -->
+		<symbol_scale_new>1.0</symbol_scale_new>
+		<symbol_scale_old>0.2</symbol_scale_old>
+
+		<!-- Transparency for new and old strike symbols. Intermediate values will be interpolated to achieve time decay. -->
+		<symbol_alpha_new>1.0</symbol_alpha_new>
+		<symbol_alpha_old>0.2</symbol_alpha_old>
+	
+		<strikedata_path> http://yourwebsite.com/svngx/data </strikedata_path> <!--data -->
+		<tracreport_path> http://yourwebsite.com/nexstorm/ </tracreport_path>
+		
+		<ld250_mode> false </ld250_mode>
+		
+		<!-- Bearing/distance to lat/lon conversion formula, "standard" or "precision" -->
+		<!-- Use "standard" for NexStorm 1.x  -->
+		<coord_conversion> standard </coord_conversion>
+		
+	</ConfigureItems>  
+</XML>

@@ -1,0 +1,30 @@
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.exe.config
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.Properties.Resources.resources
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.csproj.GenerateResource.Cache
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.csproj.StormVueNGXDS.exe.config
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.ConfigurationDlg.resources
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.Form1.resources
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.frmAbout.resources
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.FrmSyslog.resources
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.exe
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.pdb
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\Newtonsoft.Json.dll
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\System.Data.SQLite.dll
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\bin\Debug\Telegram.Bot.dll
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.exe
+c:\users\le3nad\documents\visual studio 2015\Projects\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.pdb
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.exe.config
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.exe
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\bin\Debug\StormVueNGXDS.pdb
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.ConfigurationDlg.resources
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.Form1.resources
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.frmAbout.resources
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVue2RTCM.FrmSyslog.resources
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.Properties.Resources.resources
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.csproj.CopyComplete
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.exe
+C:\Users\DELL\Downloads\StormVueNGXDS\StormVueNGXDS\StormVueNGXDS\obj\Debug\StormVueNGXDS.pdb
